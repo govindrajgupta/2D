@@ -11,7 +11,7 @@ const App = () => {
   const [gameInitialized, setGameInitialized] = useState(false);
 
   const handleLoadingComplete = () => {
-    // Start loading the game
+    // Start loading the gamee
     if (!gameInitialized) {
       initGame().catch(error => {
         console.error("Failed to initialize game:", error);
