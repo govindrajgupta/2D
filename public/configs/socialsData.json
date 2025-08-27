@@ -1,0 +1,30 @@
+[
+  {
+    "pos": { "x": 400, "y": 250 },
+    "name": "LinkedIn",
+    "description": "Connect with me on LinkedIn for professional networking and career opportunities.",
+    "link": "https://www.linkedin.com/in/anshisharma012",
+    "logoData": { "name": "linkedin-logo", "width": 228.6, "height": 179.5 }
+  },
+  {
+    "pos": { "x": 700, "y": 250 },
+    "name": "Email",
+    "address": "anshi.sharma.wm@gmail.com",
+    "logoData": {
+      "name": "email-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 1000, "y": 250 },
+    "name": "Phone",
+    "address": "+91 96254 00338",
+    "description": "Call me for urgent inquiries or direct communication.",
+    "logoData": {
+      "name": "email-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]

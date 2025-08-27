@@ -1,0 +1,83 @@
+[
+  {
+    "pos": { "x": 0, "y": 0 },
+    "name": "UI Design",
+    "logoData": {
+      "name": "react-logo",
+      "width": 148,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": -200, "y": 0 },
+    "name": "UX Research",
+    "logoData": {
+      "name": "javascript-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 0, "y": -200 },
+    "name": "Prototyping",
+    "logoData": {
+      "name": "typescript-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 200 },
+    "name": "Wireframing",
+    "logoData": {
+      "name": "nextjs-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": -200, "y": 200 },
+    "name": "User Testing",
+    "logoData": {
+      "name": "postgres-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": -200, "y": -200 },
+    "name": "HTML/CSS",
+    "logoData": {
+      "name": "html-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": -400, "y": -200 },
+    "name": "Visual Design",
+    "logoData": {
+      "name": "css-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": -400, "y": 0 },
+    "name": "Design Systems",
+    "logoData": {
+      "name": "tailwind-logo",
+      "width": 140,
+      "height": 110
+    }
+  },
+  {
+    "pos": { "x": -400, "y": 200 },
+    "name": "Accessibility",
+    "logoData": {
+      "name": "python-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "pos": { "x": 0, "y": 350 },
+    "thumbnail": "sonic-js",
+    "data": {
+      "title": "GYM APP Design Concept",
+      "links": [
+        {
+          "id": 0,
+          "name": "Design",
+          "link": "https://www.figma.com/design/PRNlEhn7a3KjssNIiiLugw/GYM-APP-Design-Concept?node-id=0-1&t=gDcpsqj7SMv4GrgL-1"
+        },
+        {
+          "id": 1,
+          "name": "Case Study",
+          "link": "https://www.figma.com/design/1HeaSMaiO4J6MXdj9bmS0c/GYM-APP-CASE-STUDY?node-id=0-1&t=gDcpsqj7SMv4GrgL-1"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 840 },
+    "thumbnail": "kirby-ts",
+    "data": {
+      "title": "Silver Capri Design",
+      "links": [
+        {
+          "id": 0,
+          "name": "Design",
+          "link": "https://www.figma.com/design/oF2sB5Zjih6DUiMB8FZT6L/Silver-Capri?node-id=0-1&t=bnXjAZzhrUOlKX1n-1"
+        },
+        {
+          "id": 1,
+          "name": "Project Details",
+          "link": "https://www.figma.com/design/oF2sB5Zjih6DUiMB8FZT6L/Silver-Capri?node-id=0-1&t=bnXjAZzhrUOlKX1n-1"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1320 },
+    "thumbnail": "platformer-js",
+    "data": {
+      "title": "Community UI/UX Case Study",
+      "links": [
+        {
+          "id": 0,
+          "name": "Case Study",
+          "link": "https://www.figma.com/design/EKiuOdwU8kT7nr7r8r3zjl/My-UI-UX-Case-Study--Community-?m=auto&t=bnXjAZzhrUOlKX1n-6"
+        },
+        {
+          "id": 1,
+          "name": "Full Analysis",
+          "link": "https://www.figma.com/design/EKiuOdwU8kT7nr7r8r3zjl/My-UI-UX-Case-Study--Community-?m=auto&t=bnXjAZzhrUOlKX1n-6"
+        }
+      ]
+    }
+  }
+]

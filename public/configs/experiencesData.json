@@ -1,0 +1,28 @@
+[
+  {
+    "pos": { "x": 150, "y": -100 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Senior UI/UX Designer",
+      "description": "Led user experience design for digital products, conducted user research, created wireframes and prototypes, and collaborated with cross-functional teams to deliver intuitive and accessible design solutions.",
+      "company": {
+        "name": "Design Studio",
+        "startDate": "2023",
+        "endDate": "Present"
+      }
+    }
+  },
+  {
+    "pos": { "x": 150, "y": 180 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "UI/UX Designer",
+      "description": "Designed user interfaces for web and mobile applications, conducted usability testing, created design systems, and improved user engagement through data-driven design decisions.",
+      "company": {
+        "name": "Tech Company",
+        "startDate": "2021",
+        "endDate": "2023"
+      }
+    }
+  }
+]
